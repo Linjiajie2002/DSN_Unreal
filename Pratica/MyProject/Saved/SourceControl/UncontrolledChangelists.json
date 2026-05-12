@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/M_FlatBlueprint.uasset",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/T_FlatBlueprint.uasset"
+			]
+		}
+	]
+}
