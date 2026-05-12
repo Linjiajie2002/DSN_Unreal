@@ -1329,3 +1329,108 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.12-08.39.57:121][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 8.987787
 [2026.05.12-08.39.57:124][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1016772990
 [2026.05.12-08.39.57:124][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.987787, Update Interval: 343.263641
+[2026.05.12-08.41.09:012][339]LogDerivedDataCache: C:/Users/jial/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: ================================================
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Total job queries 2.452, among them cache hits 575 (23.45%), DDC hits 1.358 (55.38%), Duplicates 147 (6.00%)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Tracking 1.730 distinct input hashes that result in 1.084 distinct outputs (62.66%)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: RAM used: 10,88 MiB of 819,20 MiB budget. Usage: 1.33%
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Shaders Compiled: 372
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Jobs assigned 372, completed 372 (100%)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Average time worker was idle: 0.71 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Time job spent in pending queue: average 4.84 s, longest 16.22 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Job execution time: average 4.56 s, max 11.59 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Job life time (pending + execution): average 9.40 s, max 17.00
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Shader code size: total 3,459 MiB, numShaders 395, average 8,969 KiB, min 2,246 KiB, max 33,121 KiB
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.06 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 4.23 jobs/batch
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Average processing rate: 9.06 jobs/sec
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Total thread time: 217,255 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Total thread preprocess time: 44,97 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Percentage time preprocessing: 20.70%
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Effective parallelization: 5.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.661371
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.33 sec, max 2.33 sec, min 2.33 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 1.00 sec, max 2.25 sec, min 0.47 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.96 sec, max 2.06 sec, min 0.57 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   43 times, average 0.77 sec, max 2.59 sec, min 0.36 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.17% of total time (compiled   43 times, average 0.77 sec, max 2.59 sec, min 0.36 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.80% of total time (compiled   48 times, average 0.53 sec, max 1.72 sec, min 0.20 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                                             FDebugViewModeVS - 11.13% of total time (compiled   45 times, average 0.54 sec, max 1.72 sec, min 0.20 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.97% of total time (compiled   27 times, average 0.64 sec, max 2.22 sec, min 0.37 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display:                                                  FVelocityPS - 7.57% of total time (compiled   23 times, average 0.71 sec, max 0.88 sec, min 0.44 sec)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: === Material stats ===
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Materials Translated:    144
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Material Translation Only: 0.05 s (35%)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.05.12-08.42.54:459][709]LogShaderCompilers: Display: ================================================
+[2026.05.12-08.44.54:055][102]LogPSOHitching: Encountered 300 PSO creation hitches so far (59 graphics, 241 compute). 0 of them were precached.
+[2026.05.12-08.44.56:947][243]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.05.12-08.44.58:029][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.05.12-08.45.40:402][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 352.280945
+[2026.05.12-08.45.40:552][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.12-08.45.40:553][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 352.414642, Update Interval: 357.848450
+[2026.05.12-08.45.54:777][376]LogShaderCompilers: Display: ================================================
+[2026.05.12-08.45.54:777][376]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.12-08.45.54:777][376]LogShaderCompilers: Display: Total job queries 2.464, among them cache hits 579 (23.50%), DDC hits 1.363 (55.32%), Duplicates 149 (6.05%)
+[2026.05.12-08.45.54:777][376]LogShaderCompilers: Display: Tracking 1.736 distinct input hashes that result in 1.088 distinct outputs (62.67%)
+[2026.05.12-08.45.54:777][376]LogShaderCompilers: Display: RAM used: 10,91 MiB of 819,20 MiB budget. Usage: 1.33%
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Shaders Compiled: 373
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Jobs assigned 373, completed 373 (100%)
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Average time worker was idle: 4.41 s
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Time job spent in pending queue: average 4.83 s, longest 16.22 s
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Job execution time: average 4.55 s, max 11.59 s
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Job life time (pending + execution): average 9.37 s, max 17.00
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Shader code size: total 3,467 MiB, numShaders 396, average 8,966 KiB, min 2,246 KiB, max 33,121 KiB
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.10 s
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 4.19 jobs/batch
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Average processing rate: 8.86 jobs/sec
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Total thread time: 217,738 s
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Total thread preprocess time: 45,154 s
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Percentage time preprocessing: 20.74%
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Effective parallelization: 5.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.646540
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.50 sec, max 2.50 sec, min 2.50 sec)
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.33 sec, max 2.33 sec, min 2.33 sec)
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    4 times, average 1.00 sec, max 2.25 sec, min 0.47 sec)
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.96 sec, max 2.06 sec, min 0.57 sec)
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   44 times, average 0.76 sec, max 2.59 sec, min 0.36 sec)
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.12-08.45.54:779][376]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.36% of total time (compiled   44 times, average 0.76 sec, max 2.59 sec, min 0.36 sec)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.78% of total time (compiled   48 times, average 0.53 sec, max 1.72 sec, min 0.20 sec)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display:                                             FDebugViewModeVS - 11.10% of total time (compiled   45 times, average 0.54 sec, max 1.72 sec, min 0.20 sec)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.95% of total time (compiled   27 times, average 0.64 sec, max 2.22 sec, min 0.37 sec)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display:                                                  FVelocityPS - 7.55% of total time (compiled   23 times, average 0.71 sec, max 0.88 sec, min 0.44 sec)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: === Material stats ===
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: Materials Translated:    144
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: Material Translation Only: 0.05 s (35%)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.05.12-08.45.54:780][376]LogShaderCompilers: Display: ================================================
+[2026.05.12-08.47.22:291][ 92]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.12-08.47.26:535][ 92]LogSlate: Window 'New Level' being destroyed
+[2026.05.12-08.47.26:548][ 92]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.12-08.47.26:561][ 92]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-08.47.26:561][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-08.47.26:562][ 92]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.05.12-08.47.26:595][ 92]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.12-08.47.26:642][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.12-08.47.26:663][ 92]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.05.12-08.47.26:663][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.05.12-08.47.26:678][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.12-08.47.26:700][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.05.12-08.47.26:701][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.12-08.47.26:701][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2026.05.12-08.47.26:963][ 96]LogPSOHitching: Encountered 350 PSO creation hitches so far (78 graphics, 272 compute). 0 of them were precached.
+[2026.05.12-08.47.51:277][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
