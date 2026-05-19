@@ -5,10 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/M_FlatBlueprint.uasset",
-				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/T_FlatBlueprint.uasset"
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/T_FlatBlueprint.uasset",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter1_CAT.uasset",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/FirstPerson/Blueprints/GM_FirstPerson.uasset",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_CubeRotation.uasset",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jial/SM_LAMP.uasset",
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_LightSwitch.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap"
 			]
 		}
 	]
