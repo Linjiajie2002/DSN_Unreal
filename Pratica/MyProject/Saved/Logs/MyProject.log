@@ -2208,3 +2208,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.21-09.47.52:518][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.21-09.47.52:519][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.21-09.47.52:519][550]AssetCheck: /Game/Blueprints/BP_Door Validating asset
+[2026.05.21-09.48.14:787][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2172.863281
+[2026.05.21-09.48.15:780][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-09.48.15:780][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2173.522461, Update Interval: 334.335144
+[2026.05.21-09.48.20:076][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.21-09.48.20:082][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-09.48.20:134][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maps" FILE="../../../../../../Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.21-09.48.20:195][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.05.21-09.48.20:264][221]LogSavePackage: Moving output files for package: /Game/Maps/Maps
+[2026.05.21-09.48.20:265][221]LogSavePackage: Moving '../../../../../../Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Saved/Maps34CA33B24BE80C2B3818D4A4CCFE8079.tmp' to '../../../../../../Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap'
+[2026.05.21-09.48.20:283][221]LogFileHelpers: Saving map 'Maps' took 0.149
+[2026.05.21-09.48.20:294][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.160 ms (total: 2.78 sec)
+[2026.05.21-09.48.20:351][221]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-09.48.20:351][221]LogContentValidation: Enabled validators:
+[2026.05.21-09.48.20:351][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-09.48.20:351][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-09.48.20:351][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-09.48.20:351][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-09.48.20:351][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-09.48.20:351][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-09.48.20:351][221]AssetCheck: /Game/Maps/Maps Validating asset
