@@ -1982,3 +1982,411 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.22-21.42.43:472][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.22-21.42.43:472][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.22-21.42.43:472][859]AssetCheck: /Game/Maps/Maps Validating asset
+[2026.05.22-21.44.19:646][344]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-21.44.19:861][344]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-21.44.21:125][486]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.05.22-21.44.21:126][486]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.05.22-21.44.23:553][752]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.05.22-21.44.25:750][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/jiaji/Box_5908085A.Box_5908085A
+[2026.05.22-21.44.25:750][981]LogStaticMesh: Display: Building static mesh Box_5908085A (Required Memory Estimate: 0.027864 MB)...
+[2026.05.22-21.44.25:750][981]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/jiaji/Box_5908085A.Box_5908085A
+[2026.05.22-21.44.25:751][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/jiaji/Box_5908085A.Box_5908085A as actor: StaticMeshActor /Game/Maps/Maps.Maps:PersistentLevel.StaticMeshActor_2
+[2026.05.22-21.44.26:804][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3157.198242
+[2026.05.22-21.44.26:944][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-21.44.26:944][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3157.330322, Update Interval: 301.369659
+[2026.05.22-21.45.35:360][985]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.05.22-21.45.35:361][985]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.05.22-21.45.36:735][137]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.05.22-21.45.41:292][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA.Box_E5A9F0BA
+[2026.05.22-21.45.41:294][630]LogStaticMesh: Display: Building static mesh Box_E5A9F0BA (Required Memory Estimate: 0.027864 MB)...
+[2026.05.22-21.45.41:294][630]LogStaticMesh: Built static mesh [0.00s] /Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA.Box_E5A9F0BA
+[2026.05.22-21.45.41:294][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA.Box_E5A9F0BA as actor: StaticMeshActor /Game/Maps/Maps.Maps:PersistentLevel.StaticMeshActor_3
+[2026.05.22-21.46.35:794][792]Cmd: EDIT COPY
+[2026.05.22-21.46.36:126][830]Cmd: EDIT PASTE
+[2026.05.22-21.46.50:548][494]Cmd: EDIT COPY
+[2026.05.22-21.46.51:805][636]Cmd: EDIT PASTE
+[2026.05.22-21.46.59:680][531]Cmd: EDIT COPY
+[2026.05.22-21.46.59:857][543]Cmd: EDIT PASTE
+[2026.05.22-21.47.39:701][830]LogSlate: Window 'New Packed Level Actor' being destroyed
+[2026.05.22-21.47.39:741][830]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.05.22-21.47.49:855][830]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.22-21.47.49:873][830]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.22-21.47.49:881][830]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.22-21.47.55:870][830]LogContentBrowser: Attempting asset rename: NewFolder -> Actor
+[2026.05.22-21.47.55:872][830]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.22-21.47.58:374][830]LogSlate: Window 'Save Level As' being destroyed
+[2026.05.22-21.47.58:419][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Actor/NewMap" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.47.58:454][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.05.22-21.47.58:461][830]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Actor/NewMap
+[2026.05.22-21.47.58:461][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/NewMap01D4DF55474566568E12F9903E9A6C00.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/NewMap.umap'
+[2026.05.22-21.47.58:474][830]LogFileHelpers: Saving map 'NewMap' took 0.090
+[2026.05.22-21.47.58:474][830]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-21.47.58:474][830]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.47.58:474][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.47.58:513][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.47.58:514][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.47.58:514][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.47.58:514][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.47.58:515][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.47.58:534][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.22-21.47.58:535][830]LogEditorActor: Deleted 5 Actors (0.024 secs)
+[2026.05.22-21.48.07:048][830]LogWindowsTextInputMethodSystem: Activated input method: 西班牙语(西班牙，国际排序) - (Keyboard).
+[2026.05.22-21.48.07:048][830]LogWindowsTextInputMethodSystem: Activated input method: 西班牙语(西班牙，国际排序) - (Keyboard).
+[2026.05.22-21.48.08:017][830]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - (Keyboard).
+[2026.05.22-21.48.08:017][830]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+[2026.05.22-21.48.12:314][830]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.22-21.48.12:327][830]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Maps/_GENERATED/Actor/BP_Table (0xA9FAD4284D5E9317) - The package to load does not exist on disk or in the loader
+[2026.05.22-21.48.12:327][830]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/_GENERATED/Actor/BP_Table.BP_Table'
+[2026.05.22-21.48.12:360][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.05.22-21.48.12:402][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.05.22-21.48.12:406][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.48.12:434][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maps" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.48.12:471][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.05.22-21.48.12:510][830]LogSavePackage: Moving output files for package: /Game/Maps/Maps
+[2026.05.22-21.48.12:510][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/MapsBCCB8807493A54B17CE0DB98D1AE5E4A.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap'
+[2026.05.22-21.48.12:519][830]LogFileHelpers: Saving map 'Maps' took 0.085
+[2026.05.22-21.48.12:523][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/1/B3/ENEMFRB1WWSILUY1Y0GTK0
+[2026.05.22-21.48.12:523][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/ENEMFRB1WWSILUY1Y0GTK0FDBDCA12445329C241E790919F042994.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/1/B3/ENEMFRB1WWSILUY1Y0GTK0.uasset'
+[2026.05.22-21.48.12:531][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/D/XB/RJ0LLBRYC4YZ80TRNXD2RD
+[2026.05.22-21.48.12:531][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/RJ0LLBRYC4YZ80TRNXD2RD2D1531784B8A98D6AB8F7BA97485F715.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/D/XB/RJ0LLBRYC4YZ80TRNXD2RD.uasset'
+[2026.05.22-21.48.12:537][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/0/J8/XBDZ9ZO455IJM27NO98GO0
+[2026.05.22-21.48.12:537][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/XBDZ9ZO455IJM27NO98GO075D4788F4FE89999A72D60A610A192AF.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/0/J8/XBDZ9ZO455IJM27NO98GO0.uasset'
+[2026.05.22-21.48.12:541][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/0/E6/Z6KTPKA9370IRMDMKCL5RB
+[2026.05.22-21.48.12:542][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Z6KTPKA9370IRMDMKCL5RBA441EDF14C6FCE0D129711AEB5047293.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/0/E6/Z6KTPKA9370IRMDMKCL5RB.uasset'
+[2026.05.22-21.48.12:547][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/1/4N/92ID255NUVQINVMMAFVQX8
+[2026.05.22-21.48.12:547][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/92ID255NUVQINVMMAFVQX8046DB3CC4A2FD5CFCFFA6E8101D667DE.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/1/4N/92ID255NUVQINVMMAFVQX8.uasset'
+[2026.05.22-21.48.12:560][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.211 ms (total: 397.536 ms)
+[2026.05.22-21.48.12:598][830]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.48.12:598][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.48.12:619][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.22-21.48.12:640][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.22-21.48.12:662][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.05.22-21.48.12:665][830]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.22-21.48.12:678][830]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Maps/_GENERATED/Actor/NewMap_LevelInstance_8b2017d998685a81_0) is flushing async loading
+[2026.05.22-21.48.12:680][830]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Packing of '/Game/Maps/_GENERATED/Actor/NewMap' started...
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Actor '/Engine/Transient.World_8:PersistentLevel.PackedLevelActor_0' ignored (Actor Discard)
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/NewMap_LevelInstance_8b2017d998685a81_0.NewMap:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_1721540858' packed successfully
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/NewMap_LevelInstance_8b2017d998685a81_0.NewMap:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_1721540857' packed successfully
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/NewMap_LevelInstance_8b2017d998685a81_0.NewMap:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_1721541859' packed successfully
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/NewMap_LevelInstance_8b2017d998685a81_0.NewMap:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_1721537855' packed successfully
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/NewMap_LevelInstance_8b2017d998685a81_0.NewMap:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_1721539856' packed successfully
+[2026.05.22-21.48.12:682][830]PackedLevelActor: Packing '/Game/Maps/_GENERATED/Actor/NewMap' completed with 0 warning(s)
+[2026.05.22-21.48.12:702][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.48.12:702][830]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Maps/_GENERATED/Actor/BP_Table] ([2] browsable assets)...
+[2026.05.22-21.48.12:702][830]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.05.22-21.48.12:922][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Maps/_GENERATED/Actor/BP_Table.BP_Table]
+[2026.05.22-21.48.12:922][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/Actor/BP_Table]
+[2026.05.22-21.48.12:922][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Actor/BP_Table" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BP_Table.uasset" SILENT=true
+[2026.05.22-21.48.12:931][830]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Actor/BP_Table
+[2026.05.22-21.48.12:931][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/BP_Table76A2F41A4AAB4AF8BB2A19AEC97E4264.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BP_Table.uasset'
+[2026.05.22-21.48.12:933][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.260 ms (total: 628.796 ms)
+[2026.05.22-21.48.12:933][830]PackedLevelActor: Updated Packed Blueprint '/Game/Maps/_GENERATED/Actor/BP_Table.BP_Table'
+[2026.05.22-21.48.12:955][830]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.48.12:955][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.48.12:956][830]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.48.12:956][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.48.12:975][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.48.13:004][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maps" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.48.13:038][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.22-21.48.13:072][830]LogSavePackage: Moving output files for package: /Game/Maps/Maps
+[2026.05.22-21.48.13:072][830]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Maps5AF5C48A4707E40F54F457AD99FD819C.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap'
+[2026.05.22-21.48.13:080][830]LogFileHelpers: Saving map 'Maps' took 0.076
+[2026.05.22-21.48.13:089][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.720 ms (total: 743.517 ms)
+[2026.05.22-21.48.13:118][830]LogContentValidation: Display: Starting to validate 8 assets
+[2026.05.22-21.48.13:118][830]LogContentValidation: Enabled validators:
+[2026.05.22-21.48.13:118][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-21.48.13:118][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-21.48.13:118][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-21.48.13:118][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-21.48.13:118][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-21.48.13:118][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-21.48.13:118][830]AssetCheck: /Game/Maps/Maps Validating asset
+[2026.05.22-21.48.13:118][830]AssetCheck: /Game/Maps/_GENERATED/Actor/BP_Table Validating asset
+[2026.05.22-21.48.13:152][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.22-21.48.13:223][830]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/DSN_Unreal/Pratica/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.22-21.48.24:867][109]LogInteractiveToolsContext: Warning: WARNING: This Tool will Modify the selected StaticMesh Assets! If you do not wish to modify the original Assets, please make copies in the Content Browser first!
+
+WARNING: Some selected objects are Instanced Components. Pivot of Instances will be modified, instead of Asset.
+[2026.05.22-21.48.24:867][109]LogInteractiveToolsContext: Display: This tool edits the Pivot (Origin) of the input assets. Hold Ctrl while using the gizmo to align to scene. Enable Snap Dragging and click+drag to place gizmo directly into clicked position.
+[2026.05.22-21.49.07:341][944]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.07:341][944]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.07:341][944]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.07:342][944]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.08:035][984]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.08:035][984]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.08:035][984]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.08:036][984]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.19:218][254]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.19:219][254]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.19:551][291]Cmd: TRANSACTION UNDO
+[2026.05.22-21.49.19:551][291]LogEditorTransaction: Undo Move Elements
+[2026.05.22-21.49.19:552][291]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.19:552][291]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.19:552][291]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.19:999][307]Cmd: TRANSACTION UNDO
+[2026.05.22-21.49.19:999][307]LogEditorTransaction: Undo Set Item Visibility
+[2026.05.22-21.49.20:000][307]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.20:000][307]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.20:000][307]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.20:541][363]Cmd: TRANSACTION UNDO
+[2026.05.22-21.49.20:541][363]LogEditorTransaction: Undo Set Item Visibility
+[2026.05.22-21.49.20:542][363]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.20:542][363]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.20:542][363]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.20:937][407]Cmd: TRANSACTION UNDO
+[2026.05.22-21.49.20:937][407]LogEditorTransaction: Undo Edit Mobility
+[2026.05.22-21.49.20:937][407]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.20:938][407]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.HierarchicalInstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.20:938][407]PIE: Warning: AttachTo: '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.Root' is not static  (in blueprint "BP_Table"), cannot attach '/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.InstancedStaticMesh' which is static to it. Aborting.
+[2026.05.22-21.49.21:140][428]Cmd: TRANSACTION UNDO
+[2026.05.22-21.49.21:140][428]LogEditorTransaction: Undo Edit Mobility
+[2026.05.22-21.49.21:140][428]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.46:252][319]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/_GENERATED/Actor/BP_Table.BP_Table
+[2026.05.22-21.49.46:252][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.05.22-21.49.51:212][677]LogEditorTransaction: Undo Modify Component(s)
+[2026.05.22-21.49.51:218][677]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.51:220][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.54:003][870]LogEditorTransaction: Undo Modify Component(s)
+[2026.05.22-21.49.54:006][870]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/Maps.Maps:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.49.54:007][870]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.BP_Table_C_0.BillboardComponent_0) Already registered. Aborting.
+[2026.05.22-21.50.11:025][114]LogMaterial: Display: Material /Game/LevelPrototyping/Textures/M_FlatBlueprint.M_FlatBlueprint needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2026.05.22-21.50.21:900][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.50.21:926][839]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Maps/_GENERATED/Actor/BP_Table] ([2] browsable assets)...
+[2026.05.22-21.50.21:933][839]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Maps/_GENERATED/Actor/BP_Table.BP_Table]
+[2026.05.22-21.50.21:933][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/Actor/BP_Table]
+[2026.05.22-21.50.21:933][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Actor/BP_Table" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BP_Table.uasset" SILENT=true
+[2026.05.22-21.50.21:941][839]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Actor/BP_Table
+[2026.05.22-21.50.21:941][839]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/BP_Table7AA447144F4A6560EF25159BA5986EED.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BP_Table.uasset'
+[2026.05.22-21.50.21:949][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.734 ms (total: 792.251 ms)
+[2026.05.22-21.50.21:980][839]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-21.50.21:980][839]LogContentValidation: Enabled validators:
+[2026.05.22-21.50.21:980][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-21.50.21:980][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-21.50.21:980][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-21.50.21:980][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-21.50.21:980][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-21.50.21:980][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-21.50.21:981][839]AssetCheck: /Game/Maps/_GENERATED/Actor/BP_Table Validating asset
+[2026.05.22-21.50.22:676][890]LogSlate: Window 'BP_Table' being destroyed
+[2026.05.22-21.50.22:681][890]LogSlate: Window 'BP_Table' being destroyed
+[2026.05.22-21.50.22:685][890]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.50.22:685][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.50.22:760][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.05.22-21.50.26:201][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3516.585205
+[2026.05.22-21.50.26:332][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.22-21.50.26:332][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3516.707520, Update Interval: 303.323456
+[2026.05.22-21.50.59:948][286]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.05.22-21.50.59:948][286]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.05.22-21.51.01:475][467]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.05.22-21.51.02:501][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Maps/_GENERATED/jiaji/Box_EDC6A334.Box_EDC6A334
+[2026.05.22-21.51.02:501][588]LogStaticMesh: Display: Building static mesh Box_EDC6A334 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.22-21.51.02:501][588]LogActorFactory: Actor Factory spawned StaticMesh /Game/Maps/_GENERATED/jiaji/Box_EDC6A334.Box_EDC6A334 as actor: StaticMeshActor /Game/Maps/Maps.Maps:PersistentLevel.StaticMeshActor_7
+[2026.05.22-21.51.02:510][588]LogStaticMesh: Built static mesh [0.01s] /Game/Maps/_GENERATED/jiaji/Box_EDC6A334.Box_EDC6A334
+[2026.05.22-21.51.51:565][315]Cmd: EDIT COPY
+[2026.05.22-21.51.53:263][517]Cmd: EDIT PASTE
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: ================================================
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Total job queries 457, among them cache hits 69 (15.10%), DDC hits 277 (60.61%), Duplicates 61 (13.35%)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Tracking 327 distinct input hashes that result in 246 distinct outputs (75.23%)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: RAM used: 3.12 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Shaders Compiled: 50
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Average time worker was idle: 799.41 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 0.97 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 1.39 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Job life time (pending + execution): average 0.78 s, max 1.50
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Shader code size: total 394.285 KiB, numShaders 54, average 7.301 KiB, min 3.367 KiB, max 12.023 KiB
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.01 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Jobs were issued in 45 batches (only local compilation was used), average 1.11 jobs/batch
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Average processing rate: 9.98 jobs/sec
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Total thread time: 15.623 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Total thread preprocess time: 11.3 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Percentage time preprocessing: 72.33%
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Effective parallelization: 3.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.259902
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.79 sec, max 0.82 sec, min 0.76 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.42 sec, max 0.50 sec, min 0.38 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.34 sec, max 0.38 sec, min 0.31 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.31 sec, max 0.42 sec, min 0.28 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.16% of total time (compiled    2 times, average 0.79 sec, max 0.82 sec, min 0.76 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.03% of total time (compiled    5 times, average 0.31 sec, max 0.42 sec, min 0.28 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 8.45% of total time (compiled    5 times, average 0.26 sec, max 0.30 sec, min 0.24 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                                  FVelocityPS - 8.09% of total time (compiled    3 times, average 0.42 sec, max 0.50 sec, min 0.38 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.31% of total time (compiled    4 times, average 0.25 sec, max 0.30 sec, min 0.22 sec)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: === Material stats ===
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Materials Translated:    149
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Material Translation Only: 0.03 s (23%)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: Material Cache Hits: 16 (11%)
+[2026.05.22-21.51.53:889][585]LogShaderCompilers: Display: ================================================
+[2026.05.22-21.52.07:604][188]Cmd: EDIT COPY
+[2026.05.22-21.52.07:877][219]Cmd: EDIT PASTE
+[2026.05.22-21.52.53:435][262]LogSlate: Window 'New Packed Level Actor' being destroyed
+[2026.05.22-21.52.53:455][262]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.05.22-21.53.03:357][262]LogSlate: Window 'Save Level As' being destroyed
+[2026.05.22-21.53.03:386][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Actor/Chair" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/Chair.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.53.03:411][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.22-21.53.03:421][262]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Actor/Chair
+[2026.05.22-21.53.03:421][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Chair22AF03BB44DD8B3FE0509FB33F73000C.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/Chair.umap'
+[2026.05.22-21.53.03:434][262]LogFileHelpers: Saving map 'Chair' took 0.069
+[2026.05.22-21.53.03:434][262]LogStreaming: Display: FlushAsyncLoading(613): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.22-21.53.03:435][262]LogWorld: UWorld::CleanupWorld for Chair, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.53.03:435][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.53.03:474][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.53.03:475][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.53.03:475][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.22-21.53.03:494][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.22-21.53.03:495][262]LogEditorActor: Deleted 3 Actors (0.022 secs)
+[2026.05.22-21.53.06:234][262]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.22-21.53.06:241][262]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Maps/_GENERATED/Actor/BPP_Chair (0x1B711C1295293A08) - The package to load does not exist on disk or in the loader
+[2026.05.22-21.53.06:241][262]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/_GENERATED/Actor/BPP_Chair.BPP_Chair'
+[2026.05.22-21.53.06:264][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.22-21.53.06:296][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.22-21.53.06:299][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.53.06:324][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maps" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.53.06:358][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.22-21.53.06:392][262]LogSavePackage: Moving output files for package: /Game/Maps/Maps
+[2026.05.22-21.53.06:393][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Maps71B309A94E1AB3AEB45984A52384AA4A.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap'
+[2026.05.22-21.53.06:402][262]LogFileHelpers: Saving map 'Maps' took 0.078
+[2026.05.22-21.53.06:406][262]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/Chair/8/D5/2S2GO8FA4HOM2K2LW59N5P
+[2026.05.22-21.53.06:406][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/2S2GO8FA4HOM2K2LW59N5PDE4E81E7472FCF7B4A640596D839485F.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/Chair/8/D5/2S2GO8FA4HOM2K2LW59N5P.uasset'
+[2026.05.22-21.53.06:413][262]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/Chair/3/Y9/IBN24E0PY31M68WR5NPVJD
+[2026.05.22-21.53.06:413][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/IBN24E0PY31M68WR5NPVJDB08699B84EF38986407ED18D21A4B81C.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/Chair/3/Y9/IBN24E0PY31M68WR5NPVJD.uasset'
+[2026.05.22-21.53.06:418][262]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/_GENERATED/Actor/Chair/B/F9/ZQTMW1DF6Y8TX9QWQKDM9O
+[2026.05.22-21.53.06:418][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/ZQTMW1DF6Y8TX9QWQKDM9O12B4F62A4B11E188D2937781E778258C.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/Chair/B/F9/ZQTMW1DF6Y8TX9QWQKDM9O.uasset'
+[2026.05.22-21.53.06:429][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.570 ms (total: 921.822 ms)
+[2026.05.22-21.53.06:450][262]LogWorld: UWorld::CleanupWorld for Chair, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.53.06:450][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.53.06:472][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.22-21.53.06:494][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.05.22-21.53.06:519][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.22-21.53.06:521][262]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.05.22-21.53.06:529][262]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Maps/_GENERATED/Actor/Chair_LevelInstance_8b2017d998685a81_0) is flushing async loading
+[2026.05.22-21.53.06:532][262]LogLevelInstance: Loaded 1 levels in 0.002 seconds
+[2026.05.22-21.53.06:532][262]PackedLevelActor: Packing of '/Game/Maps/_GENERATED/Actor/Chair' started...
+[2026.05.22-21.53.06:532][262]PackedLevelActor: Actor '/Engine/Transient.World_11:PersistentLevel.PackedLevelActor_0' ignored (Actor Discard)
+[2026.05.22-21.53.06:532][262]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/Chair_LevelInstance_8b2017d998685a81_0.Chair:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_2026497861' packed successfully
+[2026.05.22-21.53.06:532][262]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/Chair_LevelInstance_8b2017d998685a81_0.Chair:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_2026496860' packed successfully
+[2026.05.22-21.53.06:532][262]PackedLevelActor: Actor '/Temp/Game/Maps/_GENERATED/Actor/Chair_LevelInstance_8b2017d998685a81_0.Chair:PersistentLevel.StaticMeshActor_UAID_2C0DA7DEA87C9FDD02_2026498862' packed successfully
+[2026.05.22-21.53.06:532][262]PackedLevelActor: Packing '/Game/Maps/_GENERATED/Actor/Chair' completed with 0 warning(s)
+[2026.05.22-21.53.06:546][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.53.06:546][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Maps/_GENERATED/Actor/BPP_Chair] ([2] browsable assets)...
+[2026.05.22-21.53.06:546][262]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.05.22-21.53.06:632][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Maps/_GENERATED/Actor/BPP_Chair.BPP_Chair]
+[2026.05.22-21.53.06:632][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/Actor/BPP_Chair]
+[2026.05.22-21.53.06:632][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Actor/BPP_Chair" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BPP_Chair.uasset" SILENT=true
+[2026.05.22-21.53.06:638][262]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Actor/BPP_Chair
+[2026.05.22-21.53.06:638][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/BPP_Chair0F137EB846211ED5439630BF0B316FF5.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BPP_Chair.uasset'
+[2026.05.22-21.53.06:640][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.335 ms (total: 1.01 sec)
+[2026.05.22-21.53.06:640][262]PackedLevelActor: Updated Packed Blueprint '/Game/Maps/_GENERATED/Actor/BPP_Chair.BPP_Chair'
+[2026.05.22-21.53.06:674][262]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.53.06:675][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.53.06:677][262]LogWorld: UWorld::CleanupWorld for Chair, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.53.06:677][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.53.06:694][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.53.06:728][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maps" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.53.06:789][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.05.22-21.53.06:824][262]LogSavePackage: Moving output files for package: /Game/Maps/Maps
+[2026.05.22-21.53.06:824][262]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Maps8A1B8F4D4B2A9A0EEC63B988C4456DFC.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap'
+[2026.05.22-21.53.06:831][262]LogFileHelpers: Saving map 'Maps' took 0.104
+[2026.05.22-21.53.06:842][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.475 ms (total: 1.16 sec)
+[2026.05.22-21.53.06:881][262]LogContentValidation: Display: Starting to validate 6 assets
+[2026.05.22-21.53.06:881][262]LogContentValidation: Enabled validators:
+[2026.05.22-21.53.06:881][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-21.53.06:881][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-21.53.06:881][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-21.53.06:881][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-21.53.06:881][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-21.53.06:881][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-21.53.06:881][262]AssetCheck: /Game/Maps/Maps Validating asset
+[2026.05.22-21.53.06:881][262]AssetCheck: /Game/Maps/_GENERATED/Actor/BPP_Chair Validating asset
+[2026.05.22-21.53.06:915][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.22-21.53.06:971][262]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/DSN_Unreal/Pratica/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.22-21.53.12:383][848]Cmd: EDIT COPY
+[2026.05.22-21.53.12:609][875]Cmd: EDIT PASTE
+[2026.05.22-21.53.12:609][875]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.05.22-21.53.16:662][344]Cmd: EDIT COPY
+[2026.05.22-21.53.16:971][381]Cmd: EDIT PASTE
+[2026.05.22-21.53.36:938][608]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Maps/_GENERATED/Actor/BPP_Chair.BPP_Chair
+[2026.05.22-21.53.36:939][608]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.22-21.53.41:632][927]LogSlate: Window 'BPP_Chair' being destroyed
+[2026.05.22-21.53.41:637][927]LogSlate: Window 'BPP_Chair' being destroyed
+[2026.05.22-21.53.41:675][927]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.22-21.53.41:675][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.22-21.53.41:742][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.05.22-21.53.45:356][353]LogDerivedDataCache: C:/Users/jiaji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.22-21.53.51:662][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.53.51:696][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Maps" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.22-21.53.51:732][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.05.22-21.53.51:767][ 74]LogSavePackage: Moving output files for package: /Game/Maps/Maps
+[2026.05.22-21.53.51:767][ 74]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/MapsD8808FFE4BB6D95D3DB2068BA99D6A00.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap'
+[2026.05.22-21.53.51:774][ 74]LogFileHelpers: Saving map 'Maps' took 0.078
+[2026.05.22-21.53.51:781][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.662 ms (total: 1.28 sec)
+[2026.05.22-21.53.51:811][ 74]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.22-21.53.51:811][ 74]LogContentValidation: Enabled validators:
+[2026.05.22-21.53.51:811][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-21.53.51:811][ 74]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-21.53.51:811][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-21.53.51:811][ 74]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-21.53.51:812][ 74]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-21.53.51:812][ 74]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-21.53.51:812][ 74]AssetCheck: /Game/Maps/Maps Validating asset
+[2026.05.22-21.53.52:539][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.22-21.53.52:542][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.22-21.53.52:579][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Door] ([2] browsable assets)...
+[2026.05.22-21.53.52:579][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Door]
+[2026.05.22-21.53.52:579][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2026.05.22-21.53.52:590][155]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door
+[2026.05.22-21.53.52:590][155]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/BP_Door65EC557746FB59C40A6CBDAC1958AE7C.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_Door.uasset'
+[2026.05.22-21.53.52:591][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/M_FlatBlueprint] ([1] browsable assets)...
+[2026.05.22-21.53.52:591][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/M_FlatBlueprint]
+[2026.05.22-21.53.52:591][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Textures/M_FlatBlueprint" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/M_FlatBlueprint.uasset" SILENT=true
+[2026.05.22-21.53.52:595][155]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/M_FlatBlueprint
+[2026.05.22-21.53.52:595][155]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/M_FlatBlueprint8BF4EBE64859EA7D5CF2E7989D3E3B9B.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/M_FlatBlueprint.uasset'
+[2026.05.22-21.53.52:596][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/jiaji/Box_5908085A] ([1] browsable assets)...
+[2026.05.22-21.53.52:635][155]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/jiaji/Box_5908085A.Box_5908085A]
+[2026.05.22-21.53.52:635][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/jiaji/Box_5908085A]
+[2026.05.22-21.53.52:635][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/jiaji/Box_5908085A" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_5908085A.uasset" SILENT=true
+[2026.05.22-21.53.52:641][155]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/jiaji/Box_5908085A
+[2026.05.22-21.53.52:641][155]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Box_5908085AAA9300C1490AA0F270F65CB979432B5E.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_5908085A.uasset'
+[2026.05.22-21.53.52:642][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA] ([1] browsable assets)...
+[2026.05.22-21.53.52:648][155]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA.Box_E5A9F0BA]
+[2026.05.22-21.53.52:648][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA]
+[2026.05.22-21.53.52:648][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_E5A9F0BA.uasset" SILENT=true
+[2026.05.22-21.53.52:654][155]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA
+[2026.05.22-21.53.52:654][155]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Box_E5A9F0BA124D2A094B32F29056DE99A54479645C.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_E5A9F0BA.uasset'
+[2026.05.22-21.53.52:654][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/jiaji/Box_EDC6A334] ([1] browsable assets)...
+[2026.05.22-21.53.52:660][155]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/_GENERATED/jiaji/Box_EDC6A334.Box_EDC6A334]
+[2026.05.22-21.53.52:660][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/jiaji/Box_EDC6A334]
+[2026.05.22-21.53.52:660][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/jiaji/Box_EDC6A334" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_EDC6A334.uasset" SILENT=true
+[2026.05.22-21.53.52:666][155]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/jiaji/Box_EDC6A334
+[2026.05.22-21.53.52:666][155]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/Box_EDC6A334D1EE65C0469614314FF317873E742941.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_EDC6A334.uasset'
+[2026.05.22-21.53.52:667][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/_GENERATED/Actor/BPP_Chair] ([2] browsable assets)...
+[2026.05.22-21.53.52:667][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/_GENERATED/Actor/BPP_Chair]
+[2026.05.22-21.53.52:667][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/_GENERATED/Actor/BPP_Chair" FILE="D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BPP_Chair.uasset" SILENT=true
+[2026.05.22-21.53.52:672][155]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/Actor/BPP_Chair
+[2026.05.22-21.53.52:673][155]LogSavePackage: Moving 'D:/Github/DSN_Unreal/Pratica/MyProject/Saved/BPP_Chair027D10F84F8CE1ECE0C4A3B30E79D6C7.tmp' to 'D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BPP_Chair.uasset'
+[2026.05.22-21.53.52:679][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.705 ms (total: 1.41 sec)
+[2026.05.22-21.53.52:702][155]LogContentValidation: Display: Starting to validate 6 assets
+[2026.05.22-21.53.52:702][155]LogContentValidation: Enabled validators:
+[2026.05.22-21.53.52:702][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.22-21.53.52:702][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.22-21.53.52:702][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.22-21.53.52:702][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.22-21.53.52:702][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.22-21.53.52:702][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.22-21.53.52:702][155]AssetCheck: /Game/Blueprints/BP_Door Validating asset
+[2026.05.22-21.53.52:702][155]AssetCheck: /Game/LevelPrototyping/Textures/M_FlatBlueprint Validating asset
+[2026.05.22-21.53.52:702][155]AssetCheck: /Game/Maps/_GENERATED/jiaji/Box_5908085A Validating asset
+[2026.05.22-21.53.52:702][155]AssetCheck: /Game/Maps/_GENERATED/jiaji/Box_E5A9F0BA Validating asset
+[2026.05.22-21.53.52:702][155]AssetCheck: /Game/Maps/_GENERATED/jiaji/Box_EDC6A334 Validating asset
+[2026.05.22-21.53.52:702][155]AssetCheck: /Game/Maps/_GENERATED/Actor/BPP_Chair Validating asset
+[2026.05.22-21.53.52:718][155]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/DSN_Unreal/Pratica/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.22-21.53.53:397][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms

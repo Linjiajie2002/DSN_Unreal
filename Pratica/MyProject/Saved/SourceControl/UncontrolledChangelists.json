@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/NewMap.umap",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/1/B3/ENEMFRB1WWSILUY1Y0GTK0.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/D/XB/RJ0LLBRYC4YZ80TRNXD2RD.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/0/J8/XBDZ9ZO455IJM27NO98GO0.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/0/E6/Z6KTPKA9370IRMDMKCL5RB.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/NewMap/1/4N/92ID255NUVQINVMMAFVQX8.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BP_Table.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/Chair.umap",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/Chair/8/D5/2S2GO8FA4HOM2K2LW59N5P.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/Chair/3/Y9/IBN24E0PY31M68WR5NPVJD.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/__ExternalActors__/Maps/_GENERATED/Actor/Chair/B/F9/ZQTMW1DF6Y8TX9QWQKDM9O.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/Actor/BPP_Chair.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_Door.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/M_FlatBlueprint.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_5908085A.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_E5A9F0BA.uasset",
+				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jiaji/Box_EDC6A334.uasset",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/M_FlatBlueprint.uasset",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/LevelPrototyping/Textures/T_FlatBlueprint.uasset",
@@ -14,8 +32,7 @@
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jial/SM_LAMP.uasset",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_LightSwitch.uasset",
 				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Maps/_GENERATED/jial/SM_Door.uasset",
-				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_Door.uasset",
-				"D:/Github/DSN_Unreal/Pratica/MyProject/Content/Maps/Maps.umap"
+				"C:/Users/jial/Documents/GitHub/DSN_Unreal/Pratica/MyProject/Content/Blueprints/BP_Door.uasset"
 			]
 		}
 	]
